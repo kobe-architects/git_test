@@ -10,6 +10,7 @@
 
 <body>
 	<h1>git hub test</h1>
+	<h1>git hub test2</h1>
 </body>
 <script src="js/index.js"></script>
 
